@@ -21,7 +21,7 @@ export default {
   margin: 1em;
 }
 
-.nuxt-content > blockquote {
+.nuxt-content blockquote {
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 50px;
@@ -29,7 +29,7 @@ export default {
   border-left: 3px solid #ccc;
 }
 
-.nuxt-content > a {
+.nuxt-content a {
   text-decoration: underline;
 }
 </style>
