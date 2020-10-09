@@ -56,7 +56,11 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const posts = await $content().only(['title', 'slug', 'date']).fetch()
+    let posts = await $content().only(['title', 'slug', 'date']).fetch()
+
+    posts = posts.sort((a, b) => {
+      return new Date(b.date) - new Date(a.date)
+    })
 
     return { posts }
   },
