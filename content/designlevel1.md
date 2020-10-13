@@ -1,6 +1,6 @@
 ---
-title: Becoming a cretor
-description: Create. Build a product. Make a business.
+title: Design Level 1
+description: It's harder than it looks.
 date: 2020-10-13
 tags:
   - Design

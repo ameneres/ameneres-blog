@@ -1,5 +1,5 @@
 ---
-title: Becoming a cretor
+title: Becoming a creator
 description: Create. Build a product. Make a business.
 date: 2020-10-08
 tags:
