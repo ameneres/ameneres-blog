@@ -1,5 +1,12 @@
 <template>
-  <div>
+  <div class="bg-gray-200">
+    <div class="h-16 p-4">
+      <img
+        src="~/assets/ameneres_logo.svg"
+        alt="Ameneres Blog"
+        class="max-h-full"
+      />
+    </div>
     <Nuxt />
   </div>
 </template>

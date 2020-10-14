@@ -1,18 +1,15 @@
 <template>
-  <div class="p-2">
-    <div class="grid grid-cols-1 gap-4 sm:grid-cols-4 sm:p-4 md:p-16">
-      <div
-        class="col-span-1 sticky bg-green-400 border-solid border-black border-2 p-4 sm:p-8"
-        style="box-shadow: 0px 4px 0px #000000;"
-      >
+  <div class="p-4 container mx-auto max-w-screen-lg justify-start">
+    <div class="p-2 sm:p-4 md:p-8">
+      <div class="text-left">
         <p class="">
-          Hey! I'm António.
+          Hey! I'm António. I’m on a path to become a generalist.
         </p>
         <p>
-          I’m on a path to become a generalist.
+          Learning to build products and turning them into businesses.
         </p>
         <p>
-          Learning to become a product builder.
+          Idea, design, code, marketing, sales, support.
         </p>
         <div class="my-8">
           <p>How I rate myself:</p>
@@ -26,7 +23,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-span-3 flex flex-col">
+      <div class="flex flex-col text-left">
         <nav
           class="text-2xl leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate"
         >
@@ -73,14 +70,6 @@ export default {
 @apply min-h-screen flex justify-center items-center text-center mx-auto;
 }
 */
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
 
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
