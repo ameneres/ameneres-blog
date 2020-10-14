@@ -25,6 +25,12 @@ export default {
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [
+      {
+        src: "https://cdn.splitbee.io/sb.js",
+        async: true,
+      },
+    ],
   },
   /*
    ** Global CSS
