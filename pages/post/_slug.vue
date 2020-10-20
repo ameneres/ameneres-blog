@@ -13,6 +13,25 @@ export default {
       doc,
     }
   },
+  head() {
+    return {
+      title: this.doc.title,
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://ameneres.com/post/${this.doc.title}`,
+        },
+      ],
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.doc.description,
+        },
+      ],
+    }
+  },
 }
 </script>
 
