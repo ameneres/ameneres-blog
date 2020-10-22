@@ -1,12 +1,12 @@
 <template>
   <div class="bg-gray-200 min-h-screen">
-    <div class="h-16 p-4">
+    <nuxt-link to="/" class="h-16 p-4">
       <img
         src="~/assets/ameneres_logo.svg"
         alt="Ameneres Blog"
         class="max-h-full"
       />
-    </div>
+    </nuxt-link>
     <Nuxt />
   </div>
 </template>
