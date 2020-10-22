@@ -1,7 +1,7 @@
 ---
 title: Learning as procrastination
 description: Learning to find out you to need to learn more. Stop using learning as procrastination escape.
-date: 2020-10-22
+date: 2020-10-21
 tags:
   - productivity
 ---
