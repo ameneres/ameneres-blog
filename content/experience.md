@@ -13,7 +13,7 @@ The experience starts the moment someone discovers you. The journey starts on th
 
 Currently, I'm forgetting the whole experience on this website.
 
-My distribution sucks. Basic SEO and posted my website last week on IndieHackers. That's it. Haven't done anything else to promote my blog. That's ok as I'm not yet focusing on that. But if someone lands on my website they find posts and nothing else.
+My distribution sucks. Basic SEO and posted my website last week on [IndieHackers](https://www.indiehackers.com/). That's it. Haven't done anything else to promote my blog. That's ok as I'm not yet focusing on that. But if someone lands on my website they find posts and nothing else.
 
 No way to interact with me. No welcoming message. There are no Call-to-actions. No sharing options. No commenting. No liking.
 
