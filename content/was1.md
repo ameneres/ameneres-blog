@@ -1,5 +1,5 @@
 ---
-title: WAS #1
+title: WAS \#1
 description: First week of weekly accountability system. Slow progress.
 date: 2020-10-19
 tags:
