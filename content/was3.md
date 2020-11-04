@@ -1,5 +1,5 @@
 ---
-title: WAS \#3
+title: WAS 3
 description: Starting a public to do list. Keeping things simple.
 date: 2020-11-02
 tags:

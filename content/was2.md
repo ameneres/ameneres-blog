@@ -1,5 +1,5 @@
 ---
-title: WAS \#2
+title: WAS 2
 description: Started week 1 of Year of Hustle. 
 date: 2020-10-26
 tags:

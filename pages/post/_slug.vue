@@ -1,7 +1,7 @@
 <template>
-  <div class="container flex-col max-w-screen-md">
+  <div class="container flex-col max-w-screen-md justify-center mx-auto">
     <h1 class="text-4xl font-bold m-4">{{ doc.title }}</h1>
-    <nuxt-content :document="doc" class="text-left" />
+    <nuxt-content :document="doc" class="prose prose-lg" />
   </div>
 </template>
 <script>
