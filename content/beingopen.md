@@ -1,7 +1,7 @@
 ---
 title: Being open
 description: Jumping on train of sharing metrics out in the open.
-date: 2020-11- 05
+date: 2020-11-05
 tags:
   - transparency
 ---
