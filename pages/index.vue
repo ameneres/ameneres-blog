@@ -6,12 +6,12 @@
           Hey! I'm António. I’m on a path to become a generalist.
         </p>
         <p>
-          Learning to build products and turning them into businesses.
+          Learning to build products on the side that generate revenue.
         </p>
         <p>
           Idea, design, code, marketing, sales, support.
         </p>
-        <div class="my-8">
+        <!-- <div class="my-8">
           <p>How I rate myself:</p>
           <ul>
             <li>- Programming: 2</li>
@@ -21,7 +21,7 @@
             <li>- Copywrite: 1</li>
             <li>- User Experience: 1</li>
           </ul>
-        </div>
+        </div> -->
       </div>
       <div class="flex flex-col text-left">
         <nav
