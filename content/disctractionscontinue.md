@@ -1,5 +1,5 @@
 ---
-title: Disctrations continue
+title: Distractions continue
 description: Social media left a void. Chased too many things all at once. 
 date: 2020-11-17
 tags:
