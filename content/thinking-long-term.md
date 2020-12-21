@@ -15,4 +15,4 @@ That big idea is what lead me to do such a poor job. I was trying to get there a
 
 A successful project is nothing but a group of activities performed over time. A group of habits. As I shift my thinking, what habits can I sustain over time?
 
-My building process needs to be sustainable so I can enjoy it, avoid anxiety and push through when I need.
+My building process needs to be sustainable so I can enjoy it, avoid anxiety and push through when it gets tough.
