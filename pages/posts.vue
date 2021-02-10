@@ -1,47 +1,6 @@
 <template>
   <div class="container mx-auto max-w-screen-lg justify-start">
     <div class="py-4">
-      <div class="text-left py-8">
-        <p class="">
-          Hey! I'm António. I’m on a path to become a generalist.
-        </p>
-        <p>
-          Learning to build products on the side that generate revenue.
-        </p>
-        <p>
-          Code, design, marketing, sales, support.
-        </p>
-        <div class="flex items-center py-2">
-          <img
-            class="h-4 w-4 mr-4"
-            src="~/static/icon-arrow-right.svg"
-            alt="icon arrow left"
-          />
-          <span class="text-base mr-4">connect</span>
-          <a
-            href="https://twitter.com/antoniomeneres"
-            target="blank"
-            class="py-2 px-4 bg-gray-400 rounded"
-          >
-            <img
-              class="h-4 w-4"
-              src="~/static/icon-twitter.svg"
-              alt="icon arrow left"
-            />
-          </a>
-        </div>
-        <!-- <div class="my-8">
-          <p>How I rate myself:</p>
-          <ul>
-            <li>- Programming: 2</li>
-            <li>- Marketing: 2</li>
-            <li>- Design: 1</li>
-            <li>- Sales: 5</li>
-            <li>- Copywrite: 1</li>
-            <li>- User Experience: 1</li>
-          </ul>
-        </div> -->
-      </div>
       <div class="flex flex-col text-left prose prose-lg">
         <h2 class="flex text-2xl items-center font-bold">
           <img
@@ -71,19 +30,6 @@
           </nuxt-link>
         </div>
       </div>
-      <div class="flex flex-col text-left prose prose-lg py-4">
-        <h2 class="flex text-2xl items-center font-bold">
-          <img
-            class="h-4 w-4 mr-2"
-            src="~/static/icon-idea.svg"
-            alt="lamp icon"
-          />
-          Projects
-        </h2>
-        <div class="flex flex-col p-4">
-          Soon
-        </div>
-      </div>
     </div>
   </div>
 </template>
@@ -98,7 +44,6 @@ export default {
     posts = posts.sort((a, b) => {
       return new Date(b.date) - new Date(a.date)
     })
-    posts = posts.slice(0, 3)
 
     return { posts }
   },

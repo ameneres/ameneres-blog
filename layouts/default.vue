@@ -1,15 +1,25 @@
 <template>
-  <div class="bg-gray-200 min-h-screen pb-4">
-    <div class="flex">
-      <nuxt-link to="/" class="h-16 p-4">
-        <img
-          src="~/assets/ameneres_logo.svg"
-          alt="Ameneres Blog"
-          class="max-h-full"
-        />
-      </nuxt-link>
+  <div class="bg-gray-100 min-h-screen pb-4">
+    <div class="max-w-screen-lg m-auto p-2 sm:p-4 md:p-8">
+      <nav class="flex items-center justify-start">
+        <nuxt-link to="/" class="">
+          <img
+            src="~/assets/ameneres_logo.svg"
+            alt="Ameneres Blog"
+            class="max-h-full h-12"
+          />
+        </nuxt-link>
+        <div>
+          <nuxt-link to="/" class="mx-4 block" exact>
+            Home
+          </nuxt-link>
+        </div>
+        <!-- <nuxt-link to="/about" class="mx-4" exact>
+          About
+        </nuxt-link> -->
+      </nav>
+      <Nuxt />
     </div>
-    <Nuxt />
   </div>
 </template>
 
