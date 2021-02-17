@@ -17,10 +17,10 @@ Looking back on my daily routine coming up with the main idea for a post was the
 I've collected some basic stats to see what I've produced. The number of posts was a surprise. 
 
 Posts published: 61
-Longest by number of characters [How do they find you](https://ameneres.com/post/how-to-they-find-you-or-the-product)
-Longest by word count [Too much = Headache](https://ameneres.com/post/toomuch-headache)
-Shortest by number of characters [A 2020 tweet](https://ameneres.com/post/a-2020-tweet)
-Shortest by word count [Defining 2021](https://ameneres.com/post/defining-2021)
+- Longest by number of characters [How do they find you](https://ameneres.com/post/how-to-they-find-you-or-the-product)
+- Longest by word count [Too much = Headache](https://ameneres.com/post/toomuch-headache)
+- Shortest by number of characters [A 2020 tweet](https://ameneres.com/post/a-2020-tweet)
+- Shortest by word count [Defining 2021](https://ameneres.com/post/defining-2021)
 
 
 As something to remind myself in the future here are my 3 key lessons from this experiment.

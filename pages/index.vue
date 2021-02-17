@@ -42,7 +42,7 @@
           </ul>
         </div> -->
       </div>
-      <div class="flex flex-col text-left prose prose-lg">
+      <div class="flex flex-col text-left">
         <h2 class="flex text-2xl items-center font-bold">
           <img
             class="h-4 w-4 mr-2"
